@@ -43,7 +43,7 @@ The disagreement is mainly over election, the question of whether God decided ah
 
 And there's the one that moves me most. Jesus looked over Jerusalem and cried:
 
-> “How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!”
+> How often have I desired to gather your children together as a hen gathers her brood under her wings, and you were not willing!
 >
 > — Matthew 23:37
 
@@ -56,14 +56,10 @@ Their strongest passage is Romans 9: "I have loved Jacob, but I have hated Esau"
 These are serious verses, and you should never brush them off. But read them closely, and I don't think they prove what Calvinists say.
 
 1. **Romans 9 is about nations and God's plan, not who goes to heaven.** Paul is grieving over Israel (9:1–5). "Jacob and Esau" quotes Malachi 1:2–3, about two nations, Israel and Edom. Genesis 25:23 says "two nations are in your womb… the elder shall serve the younger," and Esau personally never served Jacob. God has the right to choose whom he uses to carry out his plan.
-
-2. **Keep reading.** Israel stumbled "because they did not strive for it on the basis of faith" (9:32). Then "everyone who calls on the name of the Lord shall be saved" (10:13). The section ends, "God has imprisoned all in disobedience so that he may be merciful to all" (11:32). The hardened can be grafted back in "if they do not persist in unbelief" (11:23). Hardening isn't a final sentence.
-
-3. **The potter comes from Jeremiah 18,** where God says that if a nation turns from evil, he will change what he planned for it. The potter reshapes clay that responds.
-
-4. **Ephesians 1 says chosen "in Christ."** Christ is the Chosen One, and those in him share his chosenness. We are destined "to be holy and blameless" and to be adopted. The predestination is about what we become, not a list of who's in and who's out.
-
-5. **Romans 8:29 begins with "foreknew"** and continues, "to be conformed to the image of his Son." Its aim is comfort and transformation: nothing "will be able to separate us from the love of God" (8:39).
+1. **Keep reading.** Israel stumbled "because they did not strive for it on the basis of faith" (9:32). Then "everyone who calls on the name of the Lord shall be saved" (10:13). The section ends, "God has imprisoned all in disobedience so that he may be merciful to all" (11:32). The hardened can be grafted back in "if they do not persist in unbelief" (11:23). Hardening isn't a final sentence.
+1. **The potter comes from Jeremiah 18,** where God says that if a nation turns from evil, he will change what he planned for it. The potter reshapes clay that responds.
+1. **Ephesians 1 says chosen "in Christ."** Christ is the Chosen One, and those in him share his chosenness. We are destined "to be holy and blameless" and to be adopted. The predestination is about what we become, not a list of who's in and who's out.
+1. **Romans 8:29 begins with "foreknew"** and continues, "to be conformed to the image of his Son." Its aim is comfort and transformation: nothing "will be able to separate us from the love of God" (8:39).
 
 Is the Calvinist reading valid? It's serious and not foolish. But I believe it takes a passage about God's freedom to save in surprising ways and turns it into a statement that he limits whom he saves. Romans 9–11 ends in mercy for all, not mercy for a few.
 
@@ -83,7 +79,7 @@ And many Calvinists are better apprentices of Jesus than many people who agree w
 
 In 1553, a Spanish doctor named Michael Servetus, who denied the Trinity, was burned alive in Geneva, and Calvin was directly involved. Servetus had written Calvin private letters, and that year a friend of Calvin's handed them to the Catholic Inquisition in France as evidence against him. When Servetus later appeared at church in Geneva, Calvin had him arrested, and Calvin's own secretary filed the charges. The city council sentenced him. Calvin asked that he be beheaded, a quicker death, but the council burned him. Nearly everyone back then, Catholic and Protestant, thought executing heretics was right. It wasn't.
 
-> “To kill a man is not to defend a doctrine; it is to kill a man.”
+> To kill a man is not to defend a doctrine; it is to kill a man.
 >
 > — Sebastian Castellio, 1554
 
@@ -92,18 +88,12 @@ The deeper sickness was believing truth must be protected by force instead of lo
 ## How to argue in love
 
 1. **Aim to win the person, not the point.** "Always be ready to make your defense to anyone who demands from you an accounting for the hope that is in you; yet do it with gentleness and reverence" (1 Peter 3:15).
-
-2. **Listen first.** "Let everyone be quick to listen, slow to speak, slow to anger" (James 1:19). Ask, "What makes that convincing to you?" Questions open doors that arguments slam shut.
-
-3. **Speak "the truth in love"** (Ephesians 4:15). Truth without love is a club. Love without truth is mush.
-
-4. **No mockery, no scoring.** "The Lord's servant must not be quarrelsome but kindly to everyone, an apt teacher, patient, correcting opponents with gentleness" (2 Timothy 2:24–25).
-
-5. **Know when to stop.** Sometimes the best ending is "I really respect you, and I see it differently."
-
-6. **Pray for the person you argue with.** It's very hard to stay proud toward someone you're praying for.
-
-7. **Check your heart afterward.** Don't only ask, "Was I right?" Ask, "Did I look like Jesus?"
+1. **Listen first.** "Let everyone be quick to listen, slow to speak, slow to anger" (James 1:19). Ask, "What makes that convincing to you?" Questions open doors that arguments slam shut.
+1. **Speak "the truth in love"** (Ephesians 4:15). Truth without love is a club. Love without truth is mush.
+1. **No mockery, no scoring.** "The Lord's servant must not be quarrelsome but kindly to everyone, an apt teacher, patient, correcting opponents with gentleness" (2 Timothy 2:24–25).
+1. **Know when to stop.** Sometimes the best ending is "I really respect you, and I see it differently."
+1. **Pray for the person you argue with.** It's very hard to stay proud toward someone you're praying for.
+1. **Check your heart afterward.** Don't only ask, "Was I right?" Ask, "Did I look like Jesus?"
 
 ## Faith that stands up to hard thinking
 
@@ -121,7 +111,7 @@ Look at anything, a tree, a star, yourself. Every event in the physical world de
 
 Think of the fact that 2 + 2 = 4. As I wrote in a paper on logic, the laws of logic "would remain true if no minds existed." Look at a brain as closely as you like, every cell and signal, and you won't find "2 + 2 = 4" in it, or your love for your family. Thoughts are about things; they mean something. "No physical thing has it." Brains "simply do not have the 'semantic' properties that consciousness manifestly has," so "the person is not identical with the brain." (The Divine Conspiracy, ch. 3; Renewing the Christian Mind, chs. 14 and 32.) That is why I could write:
 
-> “God… does not have a brain. And he never misses it… Body and brain come from him, not the other way around. And in him our own personal being will be as secure without body and brain as it now is with body and brain.”
+> God… does not have a brain. And he never misses it… Body and brain come from him, not the other way around. And in him our own personal being will be as secure without body and brain as it now is with body and brain.
 >
 > — The Divine Conspiracy
 
@@ -145,7 +135,7 @@ Most people think the Bible is basically a manual for getting into heaven after 
 
 I think that's a tragic shrinking of what Jesus taught. As I wrote in The Divine Conspiracy:
 
-> “We are flooded with what I have called 'gospels of sin management,' in one form or another, while Jesus' invitation to eternal life now… remains for the most part ignored and unspoken.”
+> We are flooded with what I have called 'gospels of sin management,' in one form or another, while Jesus' invitation to eternal life now… remains for the most part ignored and unspoken.
 >
 > — The Divine Conspiracy, ch. 2
 
@@ -153,7 +143,7 @@ I also wrote that "Life, our actual existence, is not included in what is now pr
 
 Jesus's message was much bigger: "Repent, for the kingdom of heaven has come near" (Matthew 4:17). God's kingdom, where what God wants actually happens, is right here and open to anyone who trusts him. "The kingdom of God is among you" (Luke 17:21). And he defined eternal life: "This is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent" (John 17:3).
 
-> “The eternal life that begins with confidence in Jesus is a life in his present kingdom, now on earth and available to all. So the message of and about him is specifically a gospel for our life now, not just for dying.”
+> The eternal life that begins with confidence in Jesus is a life in his present kingdom, now on earth and available to all. So the message of and about him is specifically a gospel for our life now, not just for dying.
 >
 > — The Divine Conspiracy, Introduction
 
@@ -161,7 +151,7 @@ So salvation isn't mainly about you getting into heaven. It's about heaven getti
 
 And grace makes it possible.
 
-> “Grace is not opposed to effort, it is opposed to earning. Earning is an attitude. Effort is an action.”
+> Grace is not opposed to effort, it is opposed to earning. Earning is an attitude. Effort is an action.
 >
 > — The Great Omission
 
@@ -173,7 +163,7 @@ Here's my argument, stated plainly. If salvation were only about where you go af
 
 Here's what I most want you to grasp, Andrew, because it changes everything.
 
-> “Eternity is not something waiting to happen, something that will commence later. It is now here.”
+> Eternity is not something waiting to happen, something that will commence later. It is now here.
 >
 > — The Divine Conspiracy, ch. 8
 
@@ -181,7 +171,7 @@ You don't have to wait until you die to meet God, to see him answer prayer, to f
 
 And what lies ahead is far better than most people imagine. Heaven isn't sitting on clouds playing harps.
 
-> “We will not sit around looking at one another or at God for eternity but will join the eternal Logos, 'reign with him,' in the endlessly ongoing creative work of God. It is for this that we were each individually intended, as both kings and priests.”
+> We will not sit around looking at one another or at God for eternity but will join the eternal Logos, 'reign with him,' in the endlessly ongoing creative work of God. It is for this that we were each individually intended, as both kings and priests.
 >
 > — The Divine Conspiracy, ch. 10
 
