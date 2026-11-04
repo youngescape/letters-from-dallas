@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://letters.kellyjohns.org/sitemap-index.xml

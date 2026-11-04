@@ -1,0 +1,33 @@
+---
+import type { Letter } from "../lib/letters";
+
+interface Props {
+  previous?: Letter;
+  next?: Letter;
+}
+
+const { previous, next } = Astro.props;
+---
+
+{
+  (previous || next) && (
+    <nav class="letter-nav" aria-label="Other letters">
+      {previous ? (
+        <a href={`/letters/${previous.data.slug}/`}>
+          <span class="dir">Previous letter</span>
+          <span class="name">{previous.data.title}</span>
+        </a>
+      ) : (
+        <span class="letter-nav-empty" />
+      )}
+      {next ? (
+        <a href={`/letters/${next.data.slug}/`}>
+          <span class="dir">Next letter</span>
+          <span class="name">{next.data.title}</span>
+        </a>
+      ) : (
+        <span class="letter-nav-empty" />
+      )}
+    </nav>
+  )
+}

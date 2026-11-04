@@ -1,0 +1,17 @@
+---
+import type { Letter } from "../lib/letters";
+
+interface Props {
+  letter: Letter;
+}
+
+const { letter } = Astro.props;
+const { title, subtitle, date, tag, readMinutes, slug } = letter.data;
+---
+
+<a class="letter-card" href={`/letters/${slug}/`}>
+  <p class="meta">{tag} · {date} · {readMinutes} min read</p>
+  <h2>{title}</h2>
+  <p>{subtitle}</p>
+  <p class="card-cta">Read the letter →</p>
+</a>

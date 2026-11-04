@@ -1,0 +1,40 @@
+---
+import LetterCard from "../components/LetterCard.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import Base from "../layouts/Base.astro";
+import { getLettersNewestFirst } from "../lib/letters";
+import { SITE } from "../lib/site";
+
+const letters = await getLettersNewestFirst();
+---
+
+<Base
+  title={SITE.title}
+  description={SITE.description}
+  canonicalPath="/"
+  ogImage="/og/index.png"
+  skipLabel="Skip to letters"
+>
+  <div class="wrap">
+    <SiteHeader titleAs="h1" />
+    <main id="main">
+      {
+        letters.length > 0 ? (
+          <section class="letter-list" aria-label="Letters">
+            {letters.map((letter) => (
+              <LetterCard letter={letter} />
+            ))}
+          </section>
+        ) : (
+          <section class="empty-page">
+            <p class="kicker">{SITE.kicker}</p>
+            <h1>No letters yet</h1>
+            <p>A new letter will appear here when one is added.</p>
+          </section>
+        )
+      }
+    </main>
+    <SiteFooter />
+  </div>
+</Base>

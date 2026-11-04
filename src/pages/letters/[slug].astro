@@ -1,0 +1,59 @@
+---
+import { render } from "astro:content";
+import LetterNav from "../../components/LetterNav.astro";
+import SiteFooter from "../../components/SiteFooter.astro";
+import SiteHeader from "../../components/SiteHeader.astro";
+import Base from "../../layouts/Base.astro";
+import {
+  getLettersNewestFirst,
+  getLettersOldestFirst,
+  letterNeighbors,
+  parseLetterDate,
+} from "../../lib/letters";
+
+export async function getStaticPaths() {
+  const letters = await getLettersNewestFirst();
+  return letters.map((letter) => ({
+    params: { slug: letter.data.slug },
+    props: { letter },
+  }));
+}
+
+const { letter } = Astro.props;
+const { Content } = await render(letter);
+const chronological = await getLettersOldestFirst();
+const { previous, next } = letterNeighbors(chronological, letter.data.slug);
+const publishedTime = parseLetterDate(letter.data.date).toISOString();
+---
+
+<Base
+  title={letter.data.title}
+  description={letter.data.subtitle}
+  canonicalPath={`/letters/${letter.data.slug}/`}
+  ogImage={`/og/${letter.data.slug}.png`}
+  type="article"
+  publishedTime={publishedTime}
+  skipLabel="Skip to the letter"
+>
+  <div class="wrap">
+    <SiteHeader />
+    <main id="main">
+      <a class="back-link" href="/">← All letters</a>
+      <article class="letter-sheet">
+        <p class="meta">
+          {letter.data.tag} · {letter.data.date} · {letter.data.readMinutes} min read
+        </p>
+        <h1>{letter.data.title}</h1>
+        <p class="letter-deck">{letter.data.subtitle}</p>
+        <hr class="letter-rule" />
+        <div class="letter-prose">
+          <Content />
+        </div>
+        <p class="letter-note">{letter.data.footerNote}</p>
+        <hr class="letter-rule letter-rule-end" />
+        <LetterNav previous={previous} next={next} />
+      </article>
+    </main>
+    <SiteFooter />
+  </div>
+</Base>

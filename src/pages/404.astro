@@ -1,0 +1,24 @@
+---
+import SiteFooter from "../components/SiteFooter.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import Base from "../layouts/Base.astro";
+import { SITE } from "../lib/site";
+---
+
+<Base
+  title="Page not found"
+  description={SITE.description}
+  canonicalPath="/404"
+  ogImage="/og/index.png"
+>
+  <div class="wrap">
+    <SiteHeader />
+    <main id="main" class="not-found">
+      <p class="kicker">{SITE.kicker}</p>
+      <h1>This page was not found</h1>
+      <p>The letter you are looking for is not here.</p>
+      <a class="back-link" href="/">← All letters</a>
+    </main>
+    <SiteFooter />
+  </div>
+</Base>
