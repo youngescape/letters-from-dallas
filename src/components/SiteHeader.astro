@@ -1,0 +1,18 @@
+---
+import { SITE } from "../lib/site";
+
+interface Props {
+  titleAs?: "h1" | "p";
+}
+
+const { titleAs = "p" } = Astro.props;
+const TitleTag = titleAs;
+---
+
+<header class="site-header">
+  <a href="/">
+    <p class="kicker">{SITE.kicker}</p>
+    <TitleTag class="site-title">{SITE.title}</TitleTag>
+  </a>
+  <p class="site-tagline">{SITE.tagline}</p>
+</header>
