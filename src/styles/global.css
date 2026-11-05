@@ -276,18 +276,18 @@ h1.site-title {
 .letter-sheet h1 {
   margin: 0.9rem 0 0.85rem;
   font-family: var(--font-display);
-  font-size: clamp(2rem, 5vw, 2.55rem);
+  font-size: clamp(2.25rem, 5.5vw, 2.85rem);
   font-weight: 500;
-  line-height: 1.18;
+  line-height: 1.15;
   letter-spacing: -0.015em;
 }
 
 .letter-deck {
   margin: 0 0 2.4rem;
   color: var(--soft);
-  font-size: 1.2rem;
+  font-size: clamp(1.25rem, 1.1rem + 0.6vw, 1.4rem);
   font-style: italic;
-  line-height: 1.55;
+  line-height: 1.45;
 }
 
 .letter-rule {
@@ -302,12 +302,14 @@ h1.site-title {
 }
 
 .letter-prose {
-  max-width: var(--measure);
+  max-width: 36em;
   color: var(--soft);
+  font-size: clamp(1.3125rem, 1.15rem + 0.75vw, 1.5rem);
+  line-height: 1.5;
 }
 
 .letter-prose > p {
-  margin: 0 0 1.25rem;
+  margin: 0 0 0.9em;
 }
 
 .letter-prose > p:first-of-type::first-letter {
@@ -317,14 +319,14 @@ h1.site-title {
   font-family: var(--font-display);
   font-style: italic;
   font-weight: 500;
-  font-size: 3.7em;
-  line-height: 0.74;
+  font-size: 3.25em;
+  line-height: 0.8;
 }
 
 .letter-prose h2 {
-  margin: 3.1rem 0 1rem;
+  margin: 2.2em 0 0.7em;
   font-family: var(--font-display);
-  font-size: 1.65rem;
+  font-size: 1.4em;
   font-weight: 500;
   line-height: 1.3;
   letter-spacing: -0.01em;
