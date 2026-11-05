@@ -11,7 +11,7 @@ footerNote: "Scripture is quoted from the New Revised Standard Version (1989), c
 
 Dear Andrew,
 
-In my last letters we talked about big arguments. Today I want to talk about something that sits underneath all those arguments, something that shapes your life more than any position you'll ever defend in a debate. I want to talk about the picture of God you carry around inside you.
+In my last letters we talked about big questions. Today I want to talk about something that sits underneath them, something that shapes your life more than any idea you'll ever explain to someone else. I want to talk about the picture of God you carry around inside you.
 
 Everyone has one. You may never have put it into words, but it's there. It comes out of its drawer on the day after you've really blown it. So let me start with a story Jesus told, because I think it was meant to correct exactly that picture.
 
@@ -37,7 +37,7 @@ It's easy to agree with that and hard to believe it all the way down. And we liv
 
 **How you pray.** If deep down you think God is irritated with you, you'll pray like someone filling out a form at the principal's office, careful and brief, hoping to get out without trouble. But if God is the father watching the road, prayer is just turning toward someone who is already turned toward you. You can bring him the small things and the embarrassing things. Jesus said, "Is there anyone among you who, if your child asks for bread, will give a stone? Or if the child asks for a fish, will give a snake? If you then, who are evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask him!" (Matthew 7:9–11). Notice that "how much more."
 
-**How you treat people.** We tend to become like the God we worship. People who picture a God keeping score usually keep score too. That was the older brother's problem. He had worked for his father for years, but he thought of it as slaving for a boss: "For all these years I have been working like a slave for you" (Luke 15:29). His picture of his father was wrong, and so he couldn't stand to see his brother welcomed. If you picture a running God, you'll find yourself running toward people too, even the person you're arguing with.
+**How you treat people.** We tend to become like the God we worship. People who picture a God keeping score usually keep score too. That was the older brother's problem. He had worked for his father for years, but he thought of it as slaving for a boss: "For all these years I have been working like a slave for you" (Luke 15:29). His picture of his father was wrong, and so he couldn't stand to see his brother welcomed. If you picture a running God, you'll find yourself running toward people too, even the person you disagree with.
 
 **How you come back after failing.** This is the big one. When you mess up, and you will, because everyone does, what do you do next? If your picture is the God who waits until you've suffered enough, you'll punish yourself for a while first, and only then creep back. If your picture is the probation God, you'll come back but stay at arm's length, trying to earn your way back into good standing. Neither is how the son came home. He came home ashamed, with a speech ready, and he was met on the road. You don't need to suffer first. You don't need to earn your robe back. You only need to turn around and start walking. You will find he's already been running toward you.
 
@@ -89,7 +89,7 @@ You'll find, over time, that the fear begins to drain out. John says, "There is 
 
 ## A last word
 
-Andrew, here is something I've learned over a long life. Arguments matter, and I'm glad you think hard. But the picture of God you live with matters more. If it is the running father, you'll be free to pray honestly, to love people generously, and to come home quickly every time you wander. And you'll find that life with God isn't something you wait for until after you die. It starts now, on the road, in his arms.
+Andrew, here is something I've learned over a long life. Clear thinking matters. But the picture of God you live with matters more. If it is the running father, you'll be free to pray honestly, to love people generously, and to come home quickly every time you wander. And you'll find that life with God isn't something you wait for until after you die. It starts now, on the road, in his arms.
 
 So the next time you've blown it, and you stand there practicing your speech about how you're not worthy, look up. Look down the road. You'll see someone running toward you, robe flying, arms already open. He's been watching for you the whole time. He always has been.
 

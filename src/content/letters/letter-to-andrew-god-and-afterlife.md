@@ -11,7 +11,7 @@ footerNote: "Scripture is quoted from the New Revised Standard Version (1989), c
 
 Dear Andrew,
 
-Your dad tells me you don't want to be handed feelings. You want reasons. Good. So do I. I spent most of my life teaching philosophy at the University of Southern California, and I can tell you that wanting proof is not a sign of weak faith. It is a sign that you take God seriously enough to think about him.
+Wanting reasons is good. I want them too. I spent most of my life teaching philosophy at the University of Southern California, and I can tell you that wanting proof is not a sign of weak faith. It is a sign that you take God seriously enough to think about him.
 
 Some people will tell you that faith means believing without reasons, or even against them. That is simply not how the Bible talks.
 
@@ -240,9 +240,9 @@ And knowledge of God is possible, but the deepest kind comes the way you know a 
 
 Jesus offered a test that any honest person can try: "Anyone who resolves to do the will of God will know whether the teaching is from God or whether I am speaking on my own" (John 7:17). That is an invitation to an experiment, not a demand for blind belief. Try living the way Jesus taught for a while, honestly and on purpose, and watch what happens. Pray, and pay attention. Evidence comes to the person who acts on the light he already has.
 
-### Argue gently
+### Speak gently
 
-You will argue about these things for the rest of your life, and I hope you do. Just remember how Peter put it: "Always be ready to make your defense to anyone who demands from you an accounting for the hope that is in you" (1 Peter 3:15). Notice that it's the **hope** you're giving an account of. You're not trying to defeat someone. You're trying to show them something good. Ask questions. Listen longer than feels natural. Let a good argument do its work slowly. The person across from you is also a never-ending spiritual being, and God loves them as much as he loves you.
+You will talk about these things for the rest of your life, and I hope you do. Just remember how Peter put it: "Always be ready to make your defense to anyone who demands from you an accounting for the hope that is in you" (1 Peter 3:15). Notice that it's the **hope** you're giving an account of. You're not trying to defeat someone. You're trying to show them something good. Ask questions. Listen longer than feels natural. Let a good argument do its work slowly. The person across from you is also a never-ending spiritual being, and God loves them as much as he loves you.
 
 ## A blessing for you
 

@@ -1,5 +1,5 @@
 ---
-title: "A Letter to Andrew: Calvinism, the Father Who Runs, and How to Argue in Love"
+title: "A Letter to Andrew: Calvinism, the Father Who Runs, and Truth Spoken in Love"
 subtitle: "On election, the \"all\" verses, Romans 9, the life that begins now, and the destiny that never ends."
 date: "November 4, 2026"
 slug: "letter-to-andrew-calvinism"
@@ -11,7 +11,7 @@ footerNote: "Scripture is quoted from the New Revised Standard Version, which Wi
 
 Dear Andrew,
 
-Your dad tells me you like to dig into big questions and argue them out. I'm glad. A faith that never asks hard questions usually stays thin. So let me tell you what I understand about Calvinism, what the Bible says, why I think faith in Jesus stands up to hard thinking, and something even more important: how to argue about all of it in a way that honors Jesus.
+Hard questions belong in a living faith. A faith that never asks them usually stays thin. So let me tell you what I understand about Calvinism, what the Bible says, why I think faith in Jesus stands up to hard thinking, and something even more important: how to talk about all of it in a way that honors Jesus.
 
 ## What Calvinism is
 
@@ -85,14 +85,14 @@ In 1553, a Spanish doctor named Michael Servetus, who denied the Trinity, was bu
 
 The deeper sickness was believing truth must be protected by force instead of love. Jesus told Peter to put his sword away. You can't force anyone into the kingdom, because it's entered only by a willing heart. You'll see smaller versions today: leaders who grew harsh and controlling, like the painful story of Mark Driscoll and Mars Hill. You'll see doctrine worn as a badge of being the "smart, serious" Christian. And you'll see right answers mistaken for becoming like Jesus. You can win every argument and still be a person nobody wants to be around.
 
-## How to argue in love
+## How to speak the truth in love
 
 1. **Aim to win the person, not the point.** "Always be ready to make your defense to anyone who demands from you an accounting for the hope that is in you; yet do it with gentleness and reverence" (1 Peter 3:15).
 1. **Listen first.** "Let everyone be quick to listen, slow to speak, slow to anger" (James 1:19). Ask, "What makes that convincing to you?" Questions open doors that arguments slam shut.
 1. **Speak "the truth in love"** (Ephesians 4:15). Truth without love is a club. Love without truth is mush.
 1. **No mockery, no scoring.** "The Lord's servant must not be quarrelsome but kindly to everyone, an apt teacher, patient, correcting opponents with gentleness" (2 Timothy 2:24–25).
 1. **Know when to stop.** Sometimes the best ending is "I really respect you, and I see it differently."
-1. **Pray for the person you argue with.** It's very hard to stay proud toward someone you're praying for.
+1. **Pray for the person you disagree with.** It's very hard to stay proud toward someone you're praying for.
 1. **Check your heart afterward.** Don't only ask, "Was I right?" Ask, "Did I look like Jesus?"
 
 ## Faith that stands up to hard thinking
@@ -179,7 +179,7 @@ Our destiny is "a tremendously creative team effort, with unimaginably splendid 
 
 Think about what that means for you right now. Everything you learn, every bit of character you grow, every skill you build, every time you choose love over winning, is practice for a life of creating and ruling alongside God forever. Nothing done with him is wasted. Your life isn't a waiting room for heaven. It's the beginning of it. So you don't have to wait to live. You can start today, with the One who made galaxies, loves you completely, and is already running down the road toward you.
 
-So keep studying, keep asking, and keep arguing. Just do it as someone who has met the Father on the road, and invite others to come and meet him too.
+So keep studying, keep asking, and keep seeking the truth. Just do it as someone who has met the Father on the road, and invite others to come and meet him too.
 
 With love, and with great hope for you,
 
