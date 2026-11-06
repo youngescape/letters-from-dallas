@@ -127,7 +127,9 @@ Everything you do comes out of what you actually believe is real, especially abo
 
 So if your picture of God is even slightly off, if he seems a bit stingy, a bit arbitrary, or mostly about control, it won't stay in your head. It will shape how you pray, whether you come to God like a child to a good father or like a nervous employee to a boss. It will shape how you treat people: if God might have written some people off, it gets easier for you to write people off too. And it will shape how you face fear, failure, and money, because you can only rest in a God you're sure is good. We become like what we worship: "Those who make them are like them; so are all who trust in them" (Psalm 115:8).
 
-That's why Jesus is the test. "Whoever has seen me has seen the Father" (John 14:9). If your God is less kind, less patient, or less willing to run down the road than Jesus, your picture is wrong, not Jesus.
+That's why Jesus is the test. "Whoever has seen me has seen the Father" (John 14:9).
+
+> If your picture of God is colder, less compassionate, or less willing to welcome you than the Father Jesus shows us in the prodigal son, you are wrong about God—not Jesus. Jesus isn’t the soft side of a harder God. He shows us who the Father really is.
 
 ## What I believe about salvation, and where the church has missed it
 

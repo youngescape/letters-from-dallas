@@ -13,7 +13,7 @@ Dear Andrew,
 
 In my last letters we talked about big questions. Today I want to talk about something that sits underneath them, something that shapes your life more than any idea you'll ever explain to someone else. I want to talk about the picture of God you carry around inside you.
 
-Everyone has one. You may never have put it into words, but it's there. It comes out of its drawer on the day after you've really blown it. So let me start with a story Jesus told, because I think it was meant to correct exactly that picture.
+Everyone has one. You may never have put it into words, but it's there. It comes out of its drawer on the day after you've really blown it. The main thing I want you to remember is this: if that picture is colder or less welcoming than the Father Jesus showed us in the story of the prodigal son, you are wrong about God—not Jesus. So let me start with that story, because I think it was meant to correct exactly that picture.
 
 ## The father on the road
 
@@ -29,9 +29,13 @@ And the story doesn't end there. The older brother, the one who stayed home and 
 
 That is Jesus telling us what God is like.
 
+Here is the heart of this letter:
+
+> If your picture of God is colder, less compassionate, or less willing to welcome you than the Father Jesus shows us in the prodigal son, you are wrong about God—not Jesus. Jesus isn’t the soft side of a harder God. He shows us who the Father really is.
+
 ## The picture that shows up when you fail
 
-So here's the test. Each of us carries a picture of God somewhere inside, and it shows up when we fail. Some imagine a God who waits to see if you've suffered enough. Others imagine one who chose before you were born whether to love you, or one who takes you back but keeps you on probation. Hold each of those up to that running father. If the God you picture is colder, slower or more grudging than the one Jesus described, then Jesus isn't the one who's wrong. Your picture is. "Whoever has seen me has seen the Father" (John 14:9). Jesus isn't the soft side of a harder God. He shows us exactly what God is like.
+So here's the test. Each of us carries a picture of God somewhere inside, and it shows up when we fail. Some imagine a God who waits to see if you've suffered enough. Others imagine one who chose before you were born whether to love you, or one who takes you back but keeps you on probation. Hold each of those up to that running father. "Whoever has seen me has seen the Father" (John 14:9). That welcome is not indifference to what the son did. The father ran because he loved him, not because the waste didn't matter.
 
 It's easy to agree with that and hard to believe it all the way down. And we live out of the picture we carry. Let me show you three places.
 
@@ -89,7 +93,7 @@ You'll find, over time, that the fear begins to drain out. John says, "There is 
 
 ## A last word
 
-Andrew, here is something I've learned over a long life. Clear thinking matters. But the picture of God you live with matters more. If it is the running father, you'll be free to pray honestly, to love people generously, and to come home quickly every time you wander. And you'll find that life with God isn't something you wait for until after you die. It starts now, on the road, in his arms.
+Andrew, here is something I've learned over a long life. Clear thinking matters. But the picture of God you live with matters more. If your picture of God is colder, less compassionate, or less willing to welcome you than the Father Jesus shows us in the prodigal son, you are wrong about God—not Jesus. Jesus isn’t the soft side of a harder God. He shows us who the Father really is. Live with the running father instead, and you'll be free to pray honestly, to love people generously, and to come home quickly every time you wander. And you'll find that life with God isn't something you wait for until after you die. It starts now, on the road, in his arms.
 
 So the next time you've blown it, and you stand there practicing your speech about how you're not worthy, look up. Look down the road. You'll see someone running toward you, robe flying, arms already open. He's been watching for you the whole time. He always has been.
 
